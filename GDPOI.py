@@ -1,7 +1,6 @@
 import time
 import json
 import requests
-import os
 import geojson
 from transCoordinateSystem import gcj02_to_wgs84
 
